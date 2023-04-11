@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/DateTime.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfo.cs
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/ControlFlow/DateTime/bin/Debug/net7.0/DateTime
+/Users/jeffersonong/Projects/ControlFlow/DateTime/bin/Debug/net7.0/DateTime.deps.json
+/Users/jeffersonong/Projects/ControlFlow/DateTime/bin/Debug/net7.0/DateTime.runtimeconfig.json
+/Users/jeffersonong/Projects/ControlFlow/DateTime/bin/Debug/net7.0/DateTime.dll
+/Users/jeffersonong/Projects/ControlFlow/DateTime/bin/Debug/net7.0/DateTime.pdb
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/DateTime.dll
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/refint/DateTime.dll
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/DateTime.pdb
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/DateTime.genruntimeconfig.cache
+/Users/jeffersonong/Projects/ControlFlow/DateTime/obj/Debug/net7.0/ref/DateTime.dll

@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/ArraysList.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/ArraysList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/ArraysList.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/ArraysList.AssemblyInfo.cs
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/ArraysList.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/bin/Debug/net7.0/ArraysList
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/bin/Debug/net7.0/ArraysList.deps.json
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/bin/Debug/net7.0/ArraysList.runtimeconfig.json
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/bin/Debug/net7.0/ArraysList.dll
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/bin/Debug/net7.0/ArraysList.pdb
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/ArraysList.dll
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/refint/ArraysList.dll
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/ArraysList.pdb
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/ArraysList.genruntimeconfig.cache
+/Users/jeffersonong/Projects/ControlFlow/ArraysList/obj/Debug/net7.0/ref/ArraysList.dll

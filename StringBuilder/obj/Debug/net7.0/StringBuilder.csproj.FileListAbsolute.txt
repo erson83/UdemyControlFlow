@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/bin/Debug/net7.0/StringBuilder
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/bin/Debug/net7.0/StringBuilder.deps.json
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/bin/Debug/net7.0/StringBuilder.runtimeconfig.json
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/bin/Debug/net7.0/StringBuilder.dll
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/bin/Debug/net7.0/StringBuilder.pdb
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/StringBuilder.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/StringBuilder.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/StringBuilder.AssemblyInfo.cs
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/StringBuilder.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/StringBuilder.dll
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/refint/StringBuilder.dll
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/StringBuilder.pdb
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/StringBuilder.genruntimeconfig.cache
+/Users/jeffersonong/Projects/ControlFlow/StringBuilder/obj/Debug/net7.0/ref/StringBuilder.dll

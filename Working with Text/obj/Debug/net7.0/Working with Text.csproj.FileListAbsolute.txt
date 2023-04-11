@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/bin/Debug/net7.0/Working with Text
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/bin/Debug/net7.0/Working with Text.deps.json
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/bin/Debug/net7.0/Working with Text.runtimeconfig.json
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/bin/Debug/net7.0/Working with Text.dll
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/bin/Debug/net7.0/Working with Text.pdb
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/Working with Text.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/Working with Text.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/Working with Text.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/Working with Text.AssemblyInfo.cs
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/Working with Text.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/Working with Text.dll
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/refint/Working with Text.dll
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/Working with Text.pdb
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/Working with Text.genruntimeconfig.cache
+/Users/jeffersonong/Projects/ControlFlow/Working with Text/obj/Debug/net7.0/ref/Working with Text.dll
