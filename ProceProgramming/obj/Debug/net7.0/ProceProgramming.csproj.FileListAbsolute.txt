@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/bin/Debug/net7.0/ProceProgramming
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/bin/Debug/net7.0/ProceProgramming.deps.json
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/bin/Debug/net7.0/ProceProgramming.runtimeconfig.json
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/bin/Debug/net7.0/ProceProgramming.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/bin/Debug/net7.0/ProceProgramming.pdb
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/ProceProgramming.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/ProceProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/ProceProgramming.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/ProceProgramming.AssemblyInfo.cs
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/ProceProgramming.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/ProceProgramming.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/refint/ProceProgramming.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/ProceProgramming.pdb
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/ProceProgramming.genruntimeconfig.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceProgramming/obj/Debug/net7.0/ref/ProceProgramming.dll

@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/bin/Debug/net7.0/WorkingWithModulePart2
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/bin/Debug/net7.0/WorkingWithModulePart2.deps.json
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/bin/Debug/net7.0/WorkingWithModulePart2.runtimeconfig.json
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/bin/Debug/net7.0/WorkingWithModulePart2.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/bin/Debug/net7.0/WorkingWithModulePart2.pdb
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/WorkingWithModulePart2.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/WorkingWithModulePart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/WorkingWithModulePart2.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/WorkingWithModulePart2.AssemblyInfo.cs
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/WorkingWithModulePart2.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/WorkingWithModulePart2.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/refint/WorkingWithModulePart2.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/WorkingWithModulePart2.pdb
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/WorkingWithModulePart2.genruntimeconfig.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/WorkingWithModulePart2/obj/Debug/net7.0/ref/WorkingWithModulePart2.dll

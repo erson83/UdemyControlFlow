@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/bin/Debug/net7.0/Working withFile
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/bin/Debug/net7.0/Working withFile.deps.json
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/bin/Debug/net7.0/Working withFile.runtimeconfig.json
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/bin/Debug/net7.0/Working withFile.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/bin/Debug/net7.0/Working withFile.pdb
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/Working withFile.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/Working withFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/Working withFile.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/Working withFile.AssemblyInfo.cs
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/Working withFile.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/Working withFile.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/refint/Working withFile.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/Working withFile.pdb
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/Working withFile.genruntimeconfig.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/obj/Debug/net7.0/ref/Working withFile.dll

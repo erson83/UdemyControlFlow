@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{B910E9A9-ACE4-4170-949B-F97C1ACFD22B}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithModulePart2/Program.cs">
+    <Files>
+      <File FileName="WorkingWithModulePart2/Program.cs" Line="23" Column="57" NotebookId="2" />
+      <File FileName="WorkingWithModulePart2/EmptyClass.cs" Line="17" Column="1" NotebookId="2" />
+      <File FileName="WorkingWithModulePart2/minusUtility.cs" Line="23" Column="6" NotebookId="2" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="1865" Y="1264" Width="825" Height="976">
+        <Files>
+          <File FileName="WorkingWithModules/Program.cs" Line="20" Column="69" />
+        </Files>
+      </FloatingWindow>
+      <FloatingWindow WindowId="2" X="441" Y="898" Width="825" Height="976">
+        <Files>
+          <File FileName="WorkingWithModules/StringUtility.cs" Line="30" Column="31" NotebookId="1" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ControlFlow_Udemy" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ControlFlow_Udemy" expanded="True">
+            <Node name="WorkingWithModulePart2" expanded="True">
+              <Node name="CSharpFundamentals" expanded="True">
+                <Node name="CSharpFundamentals.Program" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WorkingWithModules" expanded="True">
+              <Node name="CSharpFundamentals" expanded="True" />
+              <Node name="WorkingWithModules" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorkingWithModulePart2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ProceduralProgramming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ProceduraProgramPart2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.ControlFlow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Working_220withFile FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ProceProgramming PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

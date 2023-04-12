@@ -1,0 +1,15 @@
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/bin/Debug/net7.0/ProceduraProgramPart2
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/bin/Debug/net7.0/ProceduraProgramPart2.deps.json
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/bin/Debug/net7.0/ProceduraProgramPart2.runtimeconfig.json
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/bin/Debug/net7.0/ProceduraProgramPart2.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/bin/Debug/net7.0/ProceduraProgramPart2.pdb
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/ProceduraProgramPart2.csproj.AssemblyReference.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/ProceduraProgramPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/ProceduraProgramPart2.AssemblyInfoInputs.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/ProceduraProgramPart2.AssemblyInfo.cs
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/ProceduraProgramPart2.csproj.CoreCompileInputs.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/ProceduraProgramPart2.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/refint/ProceduraProgramPart2.dll
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/ProceduraProgramPart2.pdb
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/ProceduraProgramPart2.genruntimeconfig.cache
+/Users/jeffersonong/Projects/UdemyControlFlow/ProceduraProgramPart2/obj/Debug/net7.0/ref/ProceduraProgramPart2.dll
