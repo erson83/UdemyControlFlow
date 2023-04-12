@@ -47,13 +47,26 @@ namespace WorkingWithFile
 
             //excercise 1
 
+
+            //The File.ReadAllLines() method opens a text file, reads all lines of the file into a string array, and then closes the file. The following code snippet reads a text file into an array of strings.
             var textFile = @"/Users/jeffersonong/Projects/UdemyControlFlow/Working withFile/CopyFrom/EmptyTextFile.txt";
             try
             {
+
+
                 string[] lines = File.ReadAllLines(textFile);
+                var wordCount = 0;
 
                 foreach (string line in lines)
+                {
+                    // Split the input string into words based on whitespace characters (Eg. this is == 2 words)
+                    string[] words = line.Split(new char[] { ' ', '\t', '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
+                    wordCount += words.Length;
+                    Console.WriteLine(words.Length);
                     Console.WriteLine(line);
+                }
+
+                Console.WriteLine("wordcount: " + wordCount);
             }
             catch (Exception e)
             {
