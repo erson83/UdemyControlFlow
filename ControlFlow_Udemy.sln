@@ -1,33 +1,35 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1705.2
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{811D990C-E550-4655-B245-EA08D48CE7F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{811D990C-E550-4655-B245-EA08D48CE7F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysList", "ArraysList\ArraysList.csproj", "{5F923CA6-2B99-4385-843C-705B3D650895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysList", "ArraysList\ArraysList.csproj", "{5F923CA6-2B99-4385-843C-705B3D650895}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{1ABD2BFA-3BBD-4AE4-8AB4-B7BA282B6B11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTime", "DateTime\DateTime.csproj", "{1ABD2BFA-3BBD-4AE4-8AB4-B7BA282B6B11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working with Text", "Working with Text\Working with Text.csproj", "{95B31FD8-E586-400A-8697-93DA61C53E6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working with Text", "Working with Text\Working with Text.csproj", "{95B31FD8-E586-400A-8697-93DA61C53E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithModules", "WorkingWithModules\WorkingWithModules.csproj", "{DA94247F-DCAC-4FEF-A33C-2AA53CDE8C9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithModules", "WorkingWithModules\WorkingWithModules.csproj", "{DA94247F-DCAC-4FEF-A33C-2AA53CDE8C9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "StringBuilder\StringBuilder.csproj", "{9D4EAE2C-3107-4B25-8510-98C44673AAD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilder", "StringBuilder\StringBuilder.csproj", "{9D4EAE2C-3107-4B25-8510-98C44673AAD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithModulePart2", "WorkingWithModulePart2\WorkingWithModulePart2.csproj", "{4D8C8A59-0D4B-45A2-A44E-A542D3171A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithModulePart2", "WorkingWithModulePart2\WorkingWithModulePart2.csproj", "{4D8C8A59-0D4B-45A2-A44E-A542D3171A7E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "New Folder", "New Folder", "{16A7419A-4AA0-4F9F-935D-F3F22B85EEBE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BD6C4192-6A27-48FA-A530-E2E4843B917D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceProgramming", "ProceProgramming\ProceProgramming.csproj", "{47D2AF2F-6896-44F9-BF14-91C7A88FDA2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProceProgramming", "ProceProgramming\ProceProgramming.csproj", "{47D2AF2F-6896-44F9-BF14-91C7A88FDA2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduralProgramming", "ProceduralProgramming\ProceduralProgramming.csproj", "{A215B2C1-CF03-4DDB-BA90-E171A1B79EFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProceduralProgramming", "ProceduralProgramming\ProceduralProgramming.csproj", "{A215B2C1-CF03-4DDB-BA90-E171A1B79EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProceduraProgramPart2", "ProceduraProgramPart2\ProceduraProgramPart2.csproj", "{E74E46E6-3665-43C9-83BB-BE86289AE820}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProceduraProgramPart2", "ProceduraProgramPart2\ProceduraProgramPart2.csproj", "{E74E46E6-3665-43C9-83BB-BE86289AE820}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working withFile", "Working withFile\Working withFile.csproj", "{B910E9A9-ACE4-4170-949B-F97C1ACFD22B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working withFile", "Working withFile\Working withFile.csproj", "{B910E9A9-ACE4-4170-949B-F97C1ACFD22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging", "Debugging\Debugging.csproj", "{7C5F0B70-5534-489F-BA7A-E92824983CC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +81,10 @@ Global
 		{B910E9A9-ACE4-4170-949B-F97C1ACFD22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B910E9A9-ACE4-4170-949B-F97C1ACFD22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B910E9A9-ACE4-4170-949B-F97C1ACFD22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5F0B70-5534-489F-BA7A-E92824983CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5F0B70-5534-489F-BA7A-E92824983CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5F0B70-5534-489F-BA7A-E92824983CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5F0B70-5534-489F-BA7A-E92824983CC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
